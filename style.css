@@ -101,7 +101,17 @@
 	color: #00a76b;
 }
 .img {
+	max-width: 240px;
 	display: block;
 	max-height: 160px;
 	margin: 0 auto;
+}
+.cardd {
+	
+	padding: 5px;
+	margin-bottom: 10px;
+	min-height: 415px;
+}
+.cardd:hover {
+	border: 1px solid lightblue;
 }
